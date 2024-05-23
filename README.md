@@ -48,7 +48,7 @@
   <summary>Database 🤖</summary>
   <ul>
     <li>
-      <a href="https://github.com/Desakotas/Game-Store-Database-Project.git">Game Store Database</a> - 
+      <a href="https://github.com/Desakotas/Game-Store-Database-Project.git">Game Store Database</a>
     </li>
   </ul>
 </details>
