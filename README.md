@@ -1,7 +1,7 @@
 <h1>Hi Traveller, I am Yuwen Mai </h1>
 
 
-<a href="www.linkedin.com/in/yuwenmai"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/yuwen-mai-1ba891262/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/Desakotas"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
 
 <h2>Projects</h2>
