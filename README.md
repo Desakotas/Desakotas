@@ -16,13 +16,13 @@
 <details>
 <summary>Frontend 📊</summary>
 <ul>
-  <li><a href="https://github.com/ashutosh1919/ml-data-bot">ml-data-bot</a></li>
+  <li><a href="">ml-data-bot</a></li>
 </ul>
 </details>
 <details>
 <summary>Full Stack 🍥</summary>
   <ul>
-    <li><a href="https://github.com/ashutosh1919/masterPortfolio">masterPortfolio</a></li>
+    <li><a href="">masterPortfolio</a></li>
   </ul>
 </details>
 <details>
