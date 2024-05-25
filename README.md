@@ -2,7 +2,7 @@
 
 <ul type="none">
     <li>👋 Hi there, I'm Daniel! </li>
-    <li>🎓 I am currently pursuing my master's degree in <strong>Information Systems</strong> at <strong>Northeastern University</strong></li>
+    <li>🎓 I am currently pursuing my master's degree in <strong>Computer Software Engineering</strong> at <strong>Northeastern University</strong></li>
     <li>👨‍💻 I have strong programming 🖥️,  analytical 🔍, project management 📈, teamwork 👥, and data visualization 📊 skills</li>
     <li>🏠 Four years of work experience in research and data analysis within the real estate industry</li>
     <li>📫 Reach me at <strong>yuwenmai622@gmail.com</strong></li>
