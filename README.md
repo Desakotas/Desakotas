@@ -23,7 +23,7 @@
 <summary>Full Stack 🍥</summary>
   <ul>
     <li><a href="">flight-system</a></li>
-    <li><a href="">flashcard-study-system</a></li>
+    <li><a href="https://github.com/Desakotas/flashcard-study-system.git">flashcard-study-system</a></li>
   </ul>
 </details>
 <details>
