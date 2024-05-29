@@ -22,7 +22,8 @@
 <details>
 <summary>Full Stack 🍥</summary>
   <ul>
-    <li><a href="">Flight system</a></li>
+    <li><a href="">flight-system</a></li>
+    <li><a href="">flashcard-study-system</a></li>
   </ul>
 </details>
 <details>
